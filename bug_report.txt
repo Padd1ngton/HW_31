@@ -1,0 +1,2 @@
+Random bug report with severity, priority and steps
+
